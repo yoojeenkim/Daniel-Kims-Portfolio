@@ -4,7 +4,7 @@ import Landing from '../landing/Landing';
 import About from '../about/About';
 import Contact from '../contact/Contact';
 import Resume from '../resume/Resume';
-// import Footer from './footer/Footer';
+import Footer from '../footer/Footer';
 
 
 export default function Portfolio() {
@@ -31,7 +31,7 @@ export default function Portfolio() {
         <div>
             <Header currentPage={currentPage} handlePageChange={handlePageChange} />
             {renderPage()}
-            {/* <Footer /> */}
+            <Footer />
         </div>
     );
 }
