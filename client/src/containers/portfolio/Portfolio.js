@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import Header from '../header/Header';
-import Landing from '../landing/Landing';
-import About from '../about/About';
-import Contact from '../contact/Contact';
-import Resume from '../resume/Resume';
+import Header from '../../components/header/Header';
+import Landing from '../../components/landing/Landing';
+import About from '../../components/about/About';
+import Contact from '../../components/contact/Contact';
+import Resume from '../../components/resume/Resume';
 // import Footer from './footer/Footer';
 
 
