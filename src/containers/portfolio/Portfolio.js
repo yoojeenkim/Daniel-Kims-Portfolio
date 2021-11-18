@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function Portfolio() {
     return (
-        <div>
-            <h1>Homepage</h1>
+        <div className="portfolio" id="portfolio">
+            <h1>Portfolio</h1>
             <p>Welcome to my profile!</p>
         </div>
     );
