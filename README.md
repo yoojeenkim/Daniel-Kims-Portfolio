@@ -1,6 +1,6 @@
 <h2 align="center">
     Welcome to Daniel Kim's Portfolio!<br/>
-    <a href="#" target="_blank">Placeholder for Deploy Link</a>
+    <a href="https://yoojeenkim.github.io/Daniel-Kims-Portfolio/" target="_blank">Welcome to my profile!</a>
 </h2>
 <div align="center">
     <img alt="Preview Image" src="#" />
