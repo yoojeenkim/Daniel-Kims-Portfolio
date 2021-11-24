@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/Daniel-Kims-Portfolio/static/css/main.f74b04e3.chunk.css",
-    "main.js": "/Daniel-Kims-Portfolio/static/js/main.27049931.chunk.js",
-    "main.js.map": "/Daniel-Kims-Portfolio/static/js/main.27049931.chunk.js.map",
+    "main.js": "/Daniel-Kims-Portfolio/static/js/main.799234d9.chunk.js",
+    "main.js.map": "/Daniel-Kims-Portfolio/static/js/main.799234d9.chunk.js.map",
     "runtime-main.js": "/Daniel-Kims-Portfolio/static/js/runtime-main.19be82c7.js",
     "runtime-main.js.map": "/Daniel-Kims-Portfolio/static/js/runtime-main.19be82c7.js.map",
     "static/css/2.383c0125.chunk.css": "/Daniel-Kims-Portfolio/static/css/2.383c0125.chunk.css",
-    "static/js/2.1ff80ea5.chunk.js": "/Daniel-Kims-Portfolio/static/js/2.1ff80ea5.chunk.js",
-    "static/js/2.1ff80ea5.chunk.js.map": "/Daniel-Kims-Portfolio/static/js/2.1ff80ea5.chunk.js.map",
+    "static/js/2.2abc3770.chunk.js": "/Daniel-Kims-Portfolio/static/js/2.2abc3770.chunk.js",
+    "static/js/2.2abc3770.chunk.js.map": "/Daniel-Kims-Portfolio/static/js/2.2abc3770.chunk.js.map",
     "index.html": "/Daniel-Kims-Portfolio/index.html",
     "static/css/2.383c0125.chunk.css.map": "/Daniel-Kims-Portfolio/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.f74b04e3.chunk.css.map": "/Daniel-Kims-Portfolio/static/css/main.f74b04e3.chunk.css.map",
-    "static/js/2.1ff80ea5.chunk.js.LICENSE.txt": "/Daniel-Kims-Portfolio/static/js/2.1ff80ea5.chunk.js.LICENSE.txt"
+    "static/js/2.2abc3770.chunk.js.LICENSE.txt": "/Daniel-Kims-Portfolio/static/js/2.2abc3770.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19be82c7.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.1ff80ea5.chunk.js",
-    "static/css/main.f74b04e3.chunk.css",
-    "static/js/main.27049931.chunk.js"
+    "static/js/2.2abc3770.chunk.js",
+    "static/js/main.799234d9.chunk.js"
   ]
 }
