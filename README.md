@@ -1,6 +1,6 @@
 <h2 align="center">
     Welcome to Daniel Kim's Portfolio!<br/>
-    <a href="https://yoojeenkim.github.io/Daniel-Kims-Portfolio/" target="_blank">Welcome to my profile!</a>
+    <a target="_blank" href="https://yoojeenkim.github.io/Daniel-Kims-Portfolio/">Welcome to my profile!</a>
 </h2>
 <div align="center">
     <img alt="Preview Image" src="#" />
