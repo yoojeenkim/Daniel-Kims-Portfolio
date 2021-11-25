@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Daniel-Kims-Portfolio/static/css/main.2780e499.chunk.css",
+    "main.css": "/Daniel-Kims-Portfolio/static/css/main.edfc4505.chunk.css",
     "main.js": "/Daniel-Kims-Portfolio/static/js/main.8126d811.chunk.js",
     "main.js.map": "/Daniel-Kims-Portfolio/static/js/main.8126d811.chunk.js.map",
     "runtime-main.js": "/Daniel-Kims-Portfolio/static/js/runtime-main.19be82c7.js",
@@ -10,14 +10,14 @@
     "static/js/2.04795495.chunk.js.map": "/Daniel-Kims-Portfolio/static/js/2.04795495.chunk.js.map",
     "index.html": "/Daniel-Kims-Portfolio/index.html",
     "static/css/2.383c0125.chunk.css.map": "/Daniel-Kims-Portfolio/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.2780e499.chunk.css.map": "/Daniel-Kims-Portfolio/static/css/main.2780e499.chunk.css.map",
+    "static/css/main.edfc4505.chunk.css.map": "/Daniel-Kims-Portfolio/static/css/main.edfc4505.chunk.css.map",
     "static/js/2.04795495.chunk.js.LICENSE.txt": "/Daniel-Kims-Portfolio/static/js/2.04795495.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19be82c7.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.04795495.chunk.js",
-    "static/css/main.2780e499.chunk.css",
+    "static/css/main.edfc4505.chunk.css",
     "static/js/main.8126d811.chunk.js"
   ]
 }
