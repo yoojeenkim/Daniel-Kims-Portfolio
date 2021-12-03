@@ -6,15 +6,15 @@ export default function Portfolio() {
             <h1>My Projects</h1>
             <div className="container">
                 <div className="item">
-                    <img src="https://via.placeholder.com/140x100" alt="placeholder"/>
+                    <img src="https://via.placeholder.com/140x100" alt="Perfect Pet Placer"/>
                     <h3>Pet App</h3>
                 </div>
                 <div className="item">
-                    <img src="https://via.placeholder.com/140x100" alt="placeholder"/>
+                    <img src="https://via.placeholder.com/140x100" alt="The Null Report"/>
                     <h3>Peer Publishing App</h3>
                 </div>
                 <div className="item">
-                    <img src="https://via.placeholder.com/140x100" alt="placeholder"/>
+                    <img src="https://via.placeholder.com/140x100" alt="Pump Haus"/>
                     <h3>E-Commerce App</h3>
                 </div>
                 <div className="item">

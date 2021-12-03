@@ -9,7 +9,7 @@ export default function Topbar() {
                 </div>
                 <h1>Daniel Kim's Portfolio</h1>
                 <div className="right">
-
+                    <a className="resume" target="_blank" rel="noreferrer" href="https://youtube.com">Resume</a>
                 </div>
             </div>
         </div>
