@@ -5,7 +5,7 @@ export default function Portfolio() {
         <div className="portfolio" id="portfolio">
             <h1>My Projects</h1>
             <div className="container">
-                <div className="item">
+                {/* <div className="item">
                     <img src="https://via.placeholder.com/140x100" alt="Perfect Pet Placer"/>
                     <h3>Pet App</h3>
                 </div>
@@ -28,7 +28,7 @@ export default function Portfolio() {
                 <div className="item">
                     <img src="https://via.placeholder.com/140x100" alt="placeholder"/>
                     <h3>Yet Another App</h3>
-                </div>
+                </div> */}
             </div>
         </div>
     )
