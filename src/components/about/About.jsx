@@ -14,7 +14,7 @@ export default function About() {
                     <p>For building websites, my weapons of choice are React and Javascript to produce clean semantic HTML and CSS. I also use different libraries for handling animations and other features.</p>
                     <p>When I'm not in front of my comptuer, you'll find me either playing sports, going on hikes, practicing the guitar, or spending time with my family and friends! I love to travel, and I love web development!</p> */}
                     <p>This site is currently under development.</p>
-                    <p>Meanwhile, please check out my <a target="_blank" rel="noreferrer" href="https://github.com/yoojeenkim">Github</a> and my <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/daniel-k-5555a28a/">LinkedIn!</a></p>
+                    <p>Meanwhile, please check out my <a target="_blank" rel="noreferrer" href="https://github.com/yoojeenkim">Github</a> and my <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/daniel-k-5555a28a/">LinkedIn</a>!</p>
                 </div>
             </div>
         </div>
